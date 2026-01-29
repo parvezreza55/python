@@ -1,0 +1,6 @@
+x=int(input("Enter a number:"))
+y=float(input("Enter another number:"))
+print("The sum is",x+y)
+print("The product is",x*y)
+print("The quotient is",x/y)
+print("The remainder is",x%y)
