@@ -54,3 +54,14 @@ for i in range(1,n1+1,1):
     sum1=sum1+ 1/i
 print(sum1)
 """
+
+
+#fibonacci number
+number = int(input("enter a number:"))
+a=0
+b=1
+for i in range(number):
+    print(a)
+    c=a+b
+    a=b
+    b=c
