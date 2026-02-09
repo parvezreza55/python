@@ -1,0 +1,6 @@
+num=list(range(5))
+print(num)
+num2=list(range(5,50))
+print(num2)
+num3=list(range(5,50,3))
+print(num3)
